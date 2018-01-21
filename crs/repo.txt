@@ -1,0 +1,9 @@
+Assignment02.pd:Downloads/Assignment02.pd:10.42.0.1
+Assignment02.pdf:Downloads/Assignment02.pdf:10.42.0.1
+Assignment02.pdf:/Downloads/Assignment02.pdf:10.42.0.1
+gotsecondpart2.mp4:/Downloads/IIIT/gotsecondpart2.mp4:10.42.0.1
+gotsecondpart2.mp4:Downloads/IIIT/gotsecondpart2.mp4:10.42.0.1
+gotsecondpart2.mp4:/Downloads/gotsecondpart2.mp4:10.42.0.1
+gotsecondpart2.mp:/Downloads/gotsecondpart2.mp:10.42.0.1
+gotsecondpart2.m:/Downloads/gotsecondpart2.m:10.42.0.1
+gotsecondpart2.mp4:/Downloads/gotsecondpart2.mp4:10.42.0.1
